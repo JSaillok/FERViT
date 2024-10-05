@@ -66,5 +66,110 @@ This thesis also integrates the fine-tuned ViT models into a real-time emotion r
 - **Models:** The user can select between different models (DeiT, ViTCN, CeiT, CvT), each with pre-trained weights, and start the real-time emotion detection process.
 - **Explainability:** For each prediction, the system can also generate a LIME explanation in real-time to show the user which facial features the model focused on.
 
-<!-- ## Follow My Progress
-Stay updated on the progress of my thesis by checking the [Thesis Project Repository on GitHub](https://github.com/JSaillok/FERViT). -->
+## Results Overview
+For each model, the following results are presented:
+- **Training/Validation Loss and Accuracy Graphs**: These graphs provide insights into model convergence and overfitting.
+- **Classification Reports**: Detailed reports showcasing precision, recall, and F1-score across all emotion classes.
+- **Confusion Matrices**: Visual representation of true positives, false positives, and false negatives for all emotion categories.
+- **LIME Explainability Results**: Visualization and explanation of specific model predictions, showing which parts of the image influenced the model's decision.
+
+---
+
+### 1. ViTCN Model Results
+#### Training/Validation Graphs
+- **Training Accuracy vs. Validation Accuracy**
+- **Training Loss vs. Validation Loss**
+
+#### Classification Report
+| Class          | Precision | Recall  | F1-Score |
+|----------------|-----------|---------|----------|
+| **Angry**      |           |         |          |
+| **Disgust**    |           |         |          |
+| **Fear**       |           |         |          |
+| **Happy**      |           |         |          |
+| **Sad**        |           |         |          |
+| **Surprise**   |           |         |          |
+| **Neutral**    |           |         |          |
+
+#### Confusion Matrix
+- Confusion matrix visualization of the ViTCN model.
+
+#### LIME Explainability
+- Visual explanation of how the ViTCN model interprets input images when predicting specific emotions.
+
+---
+
+### 2. DeiT Model Results
+#### Training/Validation Graphs
+- **Training Accuracy vs. Validation Accuracy**
+- **Training Loss vs. Validation Loss**
+
+#### Classification Report
+| Class          | Precision | Recall  | F1-Score |
+|----------------|-----------|---------|----------|
+| **Angry**      |           |         |          |
+| **Disgust**    |           |         |          |
+| **Fear**       |           |         |          |
+| **Happy**      |           |         |          |
+| **Sad**        |           |         |          |
+| **Surprise**   |           |         |          |
+| **Neutral**    |           |         |          |
+
+#### Confusion Matrix
+- Confusion matrix visualization of the DeiT model.
+
+#### LIME Explainability
+- Visual explanation of how the DeiT model interprets input images when predicting specific emotions.
+
+---
+
+### 3. CeiT Model Results
+#### Training/Validation Graphs
+- **Training Accuracy vs. Validation Accuracy**
+- **Training Loss vs. Validation Loss**
+
+#### Classification Report
+| Class          | Precision | Recall  | F1-Score |
+|----------------|-----------|---------|----------|
+| **Angry**      |           |         |          |
+| **Disgust**    |           |         |          |
+| **Fear**       |           |         |          |
+| **Happy**      |           |         |          |
+| **Sad**        |           |         |          |
+| **Surprise**   |           |         |          |
+| **Neutral**    |           |         |          |
+
+#### Confusion Matrix
+- Confusion matrix visualization of the CeiT model.
+
+#### LIME Explainability
+- Visual explanation of how the CeiT model interprets input images when predicting specific emotions.
+
+---
+
+### 4. CvT Model Results
+#### Training/Validation Graphs
+- **Training Accuracy vs. Validation Accuracy**
+- **Training Loss vs. Validation Loss**
+
+#### Classification Report
+| Class          | Precision | Recall  | F1-Score |
+|----------------|-----------|---------|----------|
+| **Angry**      |           |         |          |
+| **Disgust**    |           |         |          |
+| **Fear**       |           |         |          |
+| **Happy**      |           |         |          |
+| **Sad**        |           |         |          |
+| **Surprise**   |           |         |          |
+| **Neutral**    |           |         |          |
+
+#### Confusion Matrix
+- Confusion matrix visualization of the CvT model.
+
+#### LIME Explainability
+- Visual explanation of how the CvT model interprets input images when predicting specific emotions.
+
+---
+
+## Conclusion
+This README provides a comprehensive evaluation of four models trained for facial emotion recognition. Key results such as training performance, classification metrics, confusion matrices, and model explainability using LIME have been included to compare and contrast model behavior. Further refinements could be implemented to optimize real-time performance for facial emotion detection applications.
