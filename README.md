@@ -96,11 +96,7 @@ For each model, the following results are presented:
 | **Weighted Avg** | 0.72 | 0.72  | 0.72   | 3589    |
 
 #### Confusion Matrix
-<img src="[path_to_image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)" alt="CM ViTCN" style="float: left; margin-right: 10px;" width="200"/>
-
-- Confusion matrix visualization of the ViTCN model.
-
-
+![image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)
 
 #### LIME Explainability
 - Visual explanation of how the ViTCN model interprets input images when predicting specific emotions.
@@ -128,7 +124,6 @@ For each model, the following results are presented:
 | **Weighted Avg** | 0.72 | 0.72   | 0.72   | 3589   |
 
 #### Confusion Matrix
-- Confusion matrix visualization of the DeiT model.
 ![image](https://github.com/user-attachments/assets/7374c55d-9019-4d7d-979f-055260a2e6db)
 
 #### LIME Explainability
@@ -157,7 +152,6 @@ For each model, the following results are presented:
 | **Weighted Avg** | 0.69 | 0.69   | 0.69   | 3589   |
 
 #### Confusion Matrix
-- Confusion matrix visualization of the CeiT model.
 ![image](https://github.com/user-attachments/assets/afbe275b-3e68-46aa-90d7-e04941cf8c13)
 
 #### LIME Explainability
@@ -186,7 +180,6 @@ For each model, the following results are presented:
 | **Weighted Avg** | 0.71 | 0.69   | 0.70   | 3589   |
 
 #### Confusion Matrix
-- Confusion matrix visualization of the CvT model.
 ![image](https://github.com/user-attachments/assets/c7e3ab54-4966-4205-9b8f-19101e175329)
 
 #### LIME Explainability
