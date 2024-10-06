@@ -79,20 +79,26 @@ For each model, the following results are presented:
 #### Training/Validation Graphs
 - **Training Accuracy vs. Validation Accuracy**
 - **Training Loss vs. Validation Loss**
+![image](https://github.com/user-attachments/assets/b878f8ae-1a11-4ca6-94e2-b33442ac4748)
 
 #### Classification Report
-| Class          | Precision | Recall  | F1-Score |
-|----------------|-----------|---------|----------|
-| **Angry**      |           |         |          |
-| **Disgust**    |           |         |          |
-| **Fear**       |           |         |          |
-| **Happy**      |           |         |          |
-| **Sad**        |           |         |          |
-| **Surprise**   |           |         |          |
-| **Neutral**    |           |         |          |
+| Class    | Precision | Recall | F1-Score | Support |
+|----------|-----------|--------|----------|---------|
+| Angry    | 0.64      | 0.67   | 0.65     | 491     |
+| Disgust  | 0.89      | 0.73   | 0.80     | 55      |
+| Fear     | 0.63      | 0.52   | 0.57     | 528     |
+| Happy    | 0.91      | 0.89   | 0.90     | 879     |
+| Sad      | 0.57      | 0.65   | 0.61     | 594     |
+| Surprise | 0.86      | 0.79   | 0.82     | 416     |
+| Neutral  | 0.66      | 0.71   | 0.68     | 626     |
+| **Accuracy** |       |        | **0.72** | 3589    |
+| **Macro Avg** | 0.74 | 0.71   | 0.72     | 3589    |
+| **Weighted Avg** | 0.72 | 0.72  | 0.72   | 3589    |
 
 #### Confusion Matrix
 - Confusion matrix visualization of the ViTCN model.
+![image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)
+
 
 #### LIME Explainability
 - Visual explanation of how the ViTCN model interprets input images when predicting specific emotions.
@@ -103,20 +109,25 @@ For each model, the following results are presented:
 #### Training/Validation Graphs
 - **Training Accuracy vs. Validation Accuracy**
 - **Training Loss vs. Validation Loss**
+![image](https://github.com/user-attachments/assets/5426645c-3e21-4ae3-9aca-6a414ccc5635)
 
 #### Classification Report
-| Class          | Precision | Recall  | F1-Score |
-|----------------|-----------|---------|----------|
-| **Angry**      |           |         |          |
-| **Disgust**    |           |         |          |
-| **Fear**       |           |         |          |
-| **Happy**      |           |         |          |
-| **Sad**        |           |         |          |
-| **Surprise**   |           |         |          |
-| **Neutral**    |           |         |          |
+| Class    | Precision | Recall | F1-Score | Support |
+|----------|-----------|--------|----------|---------|
+| Angry    | 0.66      | 0.63   | 0.64     | 491     |
+| Disgust  | 0.91      | 0.73   | 0.81     | 55      |
+| Fear     | 0.58      | 0.59   | 0.59     | 528     |
+| Happy    | 0.88      | 0.90   | 0.89     | 879     |
+| Sad      | 0.60      | 0.56   | 0.58     | 594     |
+| Surprise | 0.87      | 0.81   | 0.84     | 416     |
+| Neutral  | 0.66      | 0.74   | 0.69     | 626     |
+| **Accuracy** |        |        | **0.72** | 3589   |
+| **Macro Avg** | 0.74 | 0.71   | 0.72     | 3589    |
+| **Weighted Avg** | 0.72 | 0.72   | 0.72   | 3589   |
 
 #### Confusion Matrix
 - Confusion matrix visualization of the DeiT model.
+![image](https://github.com/user-attachments/assets/7374c55d-9019-4d7d-979f-055260a2e6db)
 
 #### LIME Explainability
 - Visual explanation of how the DeiT model interprets input images when predicting specific emotions.
@@ -127,20 +138,25 @@ For each model, the following results are presented:
 #### Training/Validation Graphs
 - **Training Accuracy vs. Validation Accuracy**
 - **Training Loss vs. Validation Loss**
+![image](https://github.com/user-attachments/assets/5436a76c-8921-452c-b416-e67b00dd5d8f)
 
 #### Classification Report
-| Class          | Precision | Recall  | F1-Score |
-|----------------|-----------|---------|----------|
-| **Angry**      |           |         |          |
-| **Disgust**    |           |         |          |
-| **Fear**       |           |         |          |
-| **Happy**      |           |         |          |
-| **Sad**        |           |         |          |
-| **Surprise**   |           |         |          |
-| **Neutral**    |           |         |          |
+| Class    | Precision | Recall | F1-Score | Support |
+|----------|-----------|--------|----------|---------|
+| Angry    | 0.60      | 0.61   | 0.60     | 491     |
+| Disgust  | 0.73      | 0.65   | 0.69     | 55      |
+| Fear     | 0.55      | 0.50   | 0.52     | 528     |
+| Happy    | 0.90      | 0.86   | 0.88     | 879     |
+| Sad      | 0.53      | 0.59   | 0.56     | 594     |
+| Surprise | 0.80      | 0.81   | 0.80     | 416     |
+| Neutral  | 0.68      | 0.69   | 0.68     | 626     |
+| **Accuracy** |        |        | **0.69** | 3589   |
+| **Macro Avg** | 0.68 | 0.67   | 0.68     | 3589    |
+| **Weighted Avg** | 0.69 | 0.69   | 0.69   | 3589   |
 
 #### Confusion Matrix
 - Confusion matrix visualization of the CeiT model.
+![image](https://github.com/user-attachments/assets/afbe275b-3e68-46aa-90d7-e04941cf8c13)
 
 #### LIME Explainability
 - Visual explanation of how the CeiT model interprets input images when predicting specific emotions.
@@ -151,20 +167,25 @@ For each model, the following results are presented:
 #### Training/Validation Graphs
 - **Training Accuracy vs. Validation Accuracy**
 - **Training Loss vs. Validation Loss**
+![image](https://github.com/user-attachments/assets/babc2ee2-51b1-4a3a-8c7a-96c1333ab1b4)
 
 #### Classification Report
-| Class          | Precision | Recall  | F1-Score |
-|----------------|-----------|---------|----------|
-| **Angry**      |           |         |          |
-| **Disgust**    |           |         |          |
-| **Fear**       |           |         |          |
-| **Happy**      |           |         |          |
-| **Sad**        |           |         |          |
-| **Surprise**   |           |         |          |
-| **Neutral**    |           |         |          |
+| Class    | Precision | Recall | F1-Score | Support |
+|----------|-----------|--------|----------|---------|
+| Angry    | 0.63      | 0.60   | 0.62     | 491     |
+| Disgust  | 0.26      | 0.82   | 0.40     | 55      |
+| Fear     | 0.60      | 0.51   | 0.55     | 528     |
+| Happy    | 0.94      | 0.87   | 0.90     | 879     |
+| Sad      | 0.56      | 0.57   | 0.57     | 594     |
+| Surprise | 0.79      | 0.85   | 0.82     | 416     |
+| Neutral  | 0.66      | 0.67   | 0.67     | 626     |
+| **Accuracy** |        |        | **0.69** | 3589   |
+| **Macro Avg** | 0.64 | 0.70   | 0.65     | 3589    |
+| **Weighted Avg** | 0.71 | 0.69   | 0.70   | 3589   |
 
 #### Confusion Matrix
 - Confusion matrix visualization of the CvT model.
+![image](https://github.com/user-attachments/assets/c7e3ab54-4966-4205-9b8f-19101e175329)
 
 #### LIME Explainability
 - Visual explanation of how the CvT model interprets input images when predicting specific emotions.
