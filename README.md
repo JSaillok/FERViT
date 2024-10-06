@@ -96,8 +96,10 @@ For each model, the following results are presented:
 | **Weighted Avg** | 0.72 | 0.72  | 0.72   | 3589    |
 
 #### Confusion Matrix
+<img src="[path_to_image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)" alt="CM ViTCN" style="float: left; margin-right: 10px;" width="200"/>
+
 - Confusion matrix visualization of the ViTCN model.
-![image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)
+
 
 
 #### LIME Explainability
