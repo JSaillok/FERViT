@@ -55,10 +55,10 @@ To run the LIME explanations for any of the models, follow the steps below:
 
 <table>
   <tr>
-    <td><img src="[images/ViTCN_Suprise.png](https://github.com/user-attachments/assets/466559a4-56be-400c-b85a-581b4133cb1a)" alt="ViTCN Surprise" width="200"></td>
-    <td><img src="[images/ViTCN_Sad.png](https://github.com/user-attachments/assets/fd6804c3-44e3-4de8-8311-461e70ac132d)" alt="ViTCN Sad" width="200"></td>
-    <td><img src="[images/ViTCN_Disgust.png](https://github.com/user-attachments/assets/ec71df09-ae45-4b83-8d09-276e2e1cfbac)" alt="ViTCN Disgust" width="200"></td>
-    <td><img src="[images/ViTCN_Anger.png](https://github.com/user-attachments/assets/02c70507-c7d9-4fe1-93ac-592298151dff)" alt="ViTCN Anger" width="200"></td>  
+    <td><img src="https://github.com/user-attachments/assets/466559a4-56be-400c-b85a-581b4133cb1a" alt="ViTCN Surprise" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/fd6804c3-44e3-4de8-8311-461e70ac132d" alt="ViTCN Sad" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ec71df09-ae45-4b83-8d09-276e2e1cfbac" alt="ViTCN Disgust" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/02c70507-c7d9-4fe1-93ac-592298151dff" alt="ViTCN Anger" width="200"></td>  
   </tr>
   <tr>
     <td>ViTCN Suprise</td>
