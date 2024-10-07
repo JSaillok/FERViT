@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy>=1.23
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+matplotlib>=3.7
+lime>=0.2
+scikit-image>=0.21
+Pillow>=10.0
