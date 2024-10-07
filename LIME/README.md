@@ -73,29 +73,25 @@ To run the LIME explanations for any of the models, follow the steps below:
 </table>
 
 2. DeiT model.
-![DeiT_Sad](https://github.com/user-attachments/assets/126d9e6a-b71e-47fc-9b51-2de5e9977004)
-![DeiT_Surprise](https://github.com/user-attachments/assets/3a9191d2-5765-4726-90df-95813f1b2602)
-![Deit_Neutral](https://github.com/user-attachments/assets/35b41845-5c5d-42d9-bbbc-306a8fa8050c)
-![DeiT_Fear](https://github.com/user-attachments/assets/3e90d296-aee0-43c2-b789-3c1f16e315b1)
-![DeiT_Disgust](https://github.com/user-attachments/assets/a40fed72-98bb-44d0-bc1c-b39b7b0637bd)
-
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/466559a4-56be-400c-b85a-581b4133cb1a" alt="ViTCN Surprise" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/fd6804c3-44e3-4de8-8311-461e70ac132d" alt="ViTCN Sad" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/126d9e6a-b71e-47fc-9b51-2de5e9977004" alt="DeiT Sad" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/3a9191d2-5765-4726-90df-95813f1b2602" alt="DeiT Surprise" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/35b41845-5c5d-42d9-bbbc-306a8fa8050c" alt="DeiT Neutral" width="200"</td>
   </tr>
   <tr>
-    <td>ViTCN Suprise</td>
-    <td>ViTCN Sad</td>
+    <td>DeiT Sad</td>
+    <td>DeiT Surprise</td>
+    <td>DeiT Neutral</td>
   </tr>
 
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ec71df09-ae45-4b83-8d09-276e2e1cfbac" alt="ViTCN Disgust" width="400"></td>
-    <td><img src="https://github.com/user-attachments/assets/02c70507-c7d9-4fe1-93ac-592298151dff" alt="ViTCN Anger" width="400"></td>  
+    <td><img src="https://github.com/user-attachments/assets/3e90d296-aee0-43c2-b789-3c1f16e315b1" alt="DeiT Fear" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/a40fed72-98bb-44d0-bc1c-b39b7b0637bd" alt="DeiT Disgust" width="400"></td>  
   </tr>
   <tr>
-    <td>ViTCN Disgust</td>
-    <td>ViTCN Anger</td>
+    <td>DeiT Fear</td>
+    <td>DeiT Disgust</td>
   </tr>
 </table>
 
