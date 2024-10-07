@@ -58,7 +58,5 @@ For each model, the following results are presented:
 - **Confusion Matrices**: Visual representation of true positives, false positives, and false negatives for all emotion categories.
 - **LIME Explainability Results**: Visualization and explanation of specific model predictions, showing which parts of the image influenced the model's decision.
 
----
-
 ## Conclusion
 This README provides a comprehensive evaluation of four models trained for facial emotion recognition. Key results such as training performance, classification metrics, confusion matrices, and model explainability using LIME have been included to compare and contrast model behavior. Further refinements could be implemented to optimize real-time performance for facial emotion detection applications.
