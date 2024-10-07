@@ -83,9 +83,6 @@ cp -r ceit-main/ceit <path_to_your_project_directory>
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/19fc7800-bcf5-41ab-afc7-1025b927c7ec)
 
-#### LIME Explainability
-- Visual explanation of how the ViTCN model interprets input images when predicting specific emotions.
-
 ---
 
 ### 2. DeiT Model Results
@@ -110,9 +107,6 @@ cp -r ceit-main/ceit <path_to_your_project_directory>
 
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/7374c55d-9019-4d7d-979f-055260a2e6db)
-
-#### LIME Explainability
-- Visual explanation of how the DeiT model interprets input images when predicting specific emotions.
 
 ---
 
@@ -139,9 +133,6 @@ cp -r ceit-main/ceit <path_to_your_project_directory>
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/afbe275b-3e68-46aa-90d7-e04941cf8c13)
 
-#### LIME Explainability
-- Visual explanation of how the CeiT model interprets input images when predicting specific emotions.
-
 ---
 
 ### 4. CvT Model Results
@@ -166,6 +157,3 @@ cp -r ceit-main/ceit <path_to_your_project_directory>
 
 #### Confusion Matrix
 ![image](https://github.com/user-attachments/assets/c7e3ab54-4966-4205-9b8f-19101e175329)
-
-#### LIME Explainability
-- Visual explanation of how the CvT model interprets input images when predicting specific emotions.
