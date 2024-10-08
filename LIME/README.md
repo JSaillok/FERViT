@@ -121,11 +121,6 @@ To run the LIME explanations for any of the models, follow the steps below:
 </table>
 
 4. CvT model.
-![Cvt_Anger](https://github.com/user-attachments/assets/6d36e61b-a3d3-4650-985d-d8b5a932018b)
-![Cvt Disgust](https://github.com/user-attachments/assets/7293ca44-47c8-4f8a-8308-b34f3d3b221b)
-![Cvt Fear](https://github.com/user-attachments/assets/2a87a474-c7f0-4227-9a54-ff7f573919ad)
-![Cvt Sad](https://github.com/user-attachments/assets/83d4f506-14fc-42e1-9bbe-bed2abc3cd7a)
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/6d36e61b-a3d3-4650-985d-d8b5a932018b" alt="Cvt Anger" width="400"></td>
